@@ -1,3 +1,1 @@
-# Nitro-Proof-Bot
-Command:
-+fakenitro [username] [message]
+# Nitro-Proof-Bot Shit getting leaked cause of skids thinking they can code :(
